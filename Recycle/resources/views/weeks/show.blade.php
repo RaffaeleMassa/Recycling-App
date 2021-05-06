@@ -6,9 +6,7 @@
             <div class="pull-left">
                 <h2> Show Day</h2>
             </div>
-            <div class="pull-right">
-                <a class="btn btn-primary" href="{{ route('weeks.index') }}"> Back</a>
-            </div>
+           
         </div>
     </div>
    
@@ -31,5 +29,9 @@
                 {{ $week->Recycle }}
             </div>
         </div>
+        <div class="pull-left">
+                <a class="btn btn-primary" href="{{ route('weeks.index') }}"> Back</a>
+        </div>
     </div>
+    
 @endsection
