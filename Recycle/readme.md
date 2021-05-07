@@ -7,8 +7,7 @@
 ### General Info
 ***
 My first PHP/Laravel project for the course PHP/MySQL.
-### Screenshot
-![Image text](https://ibb.co/0YsyNbB)
+
 ## Technologies
 ***
 A list of technologies used within the project:
