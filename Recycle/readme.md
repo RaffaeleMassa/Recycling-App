@@ -29,15 +29,18 @@ A little intro about the installation.
 ```
 $ git clone https://github.com/RaffaeleMassa/Recycling-App.git
 $ cd Recycle
-*install Composer Dependencies
+3install Composer Dependencies
 *NPM Packages
 $ npm install
 $ npm start
-*Create an empty database: depending on your setup and system this may vary; you can refer to the official documentation or follow the instruction for the software you are using to handle MySQL.
+
+4.Create an empty database: depending on your setup and system this may vary; you can refer to the official documentation or follow the instruction for the software you are using to handle MySQL.
 *Update .env with your database connection settings
-*Run migration
+
+5.Run migration
 $php artisan migrate
-*run server
+
+6.run server
 $php artisan serve
 
 
