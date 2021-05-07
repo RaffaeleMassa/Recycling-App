@@ -8,7 +8,7 @@
 ***
 My first PHP/Laravel project for the course PHP/MySQL.
 ### Screenshot
-<img src="Screenshot (42).png"/>
+<img src="https://ibb.co/0YsyNbB"/>
 
 ## Technologies
 ***
